@@ -29,6 +29,8 @@ gem "fog", "~> 1.0"
 
 gem "figaro", "~> 0.7.0"
 
+gem 'mini_magick'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
